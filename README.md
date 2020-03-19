@@ -8,10 +8,6 @@ A consumer-driven contract testing example using pact-jvm, spring boot, and mave
 This will create a pact file in target/pacts. If the tests pass, we know that the consumer interacts correctly with the contract.
 
 ## Running the provider
-Start the provider application
-
-    (inside the pact-provider directory)
-    mvn spring-boot:run
 
 In a separate window/process
 
